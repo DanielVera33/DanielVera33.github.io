@@ -1,0 +1,3 @@
+Para comprobarlo hay que utilizar 
+internet explorer ya que en chrome no hace los cambios de las medias correctamente 
+sobre todo con lo que seria la version movil
